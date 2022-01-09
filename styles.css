@@ -45,8 +45,15 @@ h1,h2{
 
 p, li{
     text-align: center;
-    
-}--
+
+}
+
+p1{
+    color: rgb(15, 19, 224);
+    font-size: 180%;
+    text-align: center;
+    text-shadow: 5px 5px 5px #000;
+}
 
 ul,li{
     color: purple;
